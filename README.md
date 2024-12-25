@@ -1,4 +1,6 @@
 # Functionality:
+![hq720](https://github.com/user-attachments/assets/a6f4fa81-db91-4dac-9393-452df422d55f)
+
 ### The function attempts to find the optimal selection of items that maximize the total benefit without exceeding the weight capacity of the knapsack. It uses principles of natural selection, including population generation, fitness evaluation, crossover, and mutation.
 
 # Parameters:
