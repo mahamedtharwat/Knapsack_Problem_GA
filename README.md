@@ -26,7 +26,7 @@
 ## 7. Final Solution:
   * After all generations, the chromosome with the highest fitness is returned as the best solution.
 # Return Value:
-## The function returns a dictionary containing:
+### The function returns a dictionary containing:
    * total_benefit: The maximum benefit achieved.
    * selected_items: Indices of the items included in the solution.
    * solution: The binary representation of the best chromosome
